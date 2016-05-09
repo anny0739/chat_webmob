@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "chat package json",
+  "main": "app.js",
+  "dependencies": {
+    "aws-sdk": "^2.3.3",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "jade-bootstrap": "^1.0.2",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hi"
+  },
+  "author": "AnnyKim",
+  "license": "ISC"
+}
